@@ -121,7 +121,8 @@ https://en.wikipedia.org/wiki/Visual_Studio_Code
 
 
 ## MySQL
-
+MySQL is a relational database management system (RDBMS) developed by Oracle that is based on structured query language (SQL). MySQL is the world's most popular open source database. 
+https://www.oracle.com/mysql/what-is-mysql/
 
 ## WebAssembly
 
